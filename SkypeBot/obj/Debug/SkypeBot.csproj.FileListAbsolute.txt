@@ -1,0 +1,16 @@
+C:\Users\jeff\Desktop\Workspace\AutomaticDisplayScaler\SkypeBot\SkypeBot\bin\Debug\SkypeBot.exe.config
+C:\Users\jeff\Desktop\Workspace\AutomaticDisplayScaler\SkypeBot\SkypeBot\bin\Debug\SkypeBot.exe
+C:\Users\jeff\Desktop\Workspace\AutomaticDisplayScaler\SkypeBot\SkypeBot\bin\Debug\SkypeBot.pdb
+C:\Users\jeff\Desktop\Workspace\AutomaticDisplayScaler\SkypeBot\SkypeBot\obj\Debug\SkypeBot.csprojResolveAssemblyReference.cache
+C:\Users\jeff\Desktop\Workspace\AutomaticDisplayScaler\SkypeBot\SkypeBot\obj\Debug\MainWindow.baml
+C:\Users\jeff\Desktop\Workspace\AutomaticDisplayScaler\SkypeBot\SkypeBot\obj\Debug\MainWindow.g.cs
+C:\Users\jeff\Desktop\Workspace\AutomaticDisplayScaler\SkypeBot\SkypeBot\obj\Debug\App.g.cs
+C:\Users\jeff\Desktop\Workspace\AutomaticDisplayScaler\SkypeBot\SkypeBot\obj\Debug\SkypeBot_MarkupCompile.cache
+C:\Users\jeff\Desktop\Workspace\AutomaticDisplayScaler\SkypeBot\SkypeBot\obj\Debug\SkypeBot.g.resources
+C:\Users\jeff\Desktop\Workspace\AutomaticDisplayScaler\SkypeBot\SkypeBot\obj\Debug\SkypeBot.Properties.Resources.resources
+C:\Users\jeff\Desktop\Workspace\AutomaticDisplayScaler\SkypeBot\SkypeBot\obj\Debug\SkypeBot.csproj.GenerateResource.Cache
+C:\Users\jeff\Desktop\Workspace\AutomaticDisplayScaler\SkypeBot\SkypeBot\obj\Debug\SkypeBot.exe
+C:\Users\jeff\Desktop\Workspace\AutomaticDisplayScaler\SkypeBot\SkypeBot\obj\Debug\SkypeBot.pdb
+C:\Users\jeff\Desktop\Workspace\SkypeBot\SkypeBot\bin\Debug\SkypeBot.exe.config
+C:\Users\jeff\Desktop\Workspace\SkypeBot\SkypeBot\obj\Debug\SkypeBot.exe
+C:\Users\jeff\Desktop\Workspace\SkypeBot\SkypeBot\obj\Debug\SkypeBot.pdb
