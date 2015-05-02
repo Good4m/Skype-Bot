@@ -34,7 +34,7 @@ namespace SkypeBot
         const uint WM_CHAR    = 0x0102;
         const int VK_RETURN   = 0x0D;
 
-        const string windowName = "jeff_s86";
+        const string windowName = "SKYPE USERNAME HERE";
 
         public MainWindow()
         {
